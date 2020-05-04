@@ -1,7 +1,9 @@
 # corona_south_africa_v1
 
 Mobile App to view the most up to date statistics of the corona virus
+
 Specifically Made for South Africa Covid-19 Data
+
 Made using flutter and the novel covid api
 
 ![Screen 1](https://i.ibb.co/86HcQJr/image-2.png)

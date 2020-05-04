@@ -29,7 +29,6 @@ class _SouthAfricaInfoPage extends State<SouthAfricaInfoPage> {
       appBar: AppBar(
         title: Text(
           'South Africa COVID-19',
-          //style: TextStyle(color: Theme.of(context).accentColor),
         ),
         leading: Icon(
           Icons.album,
